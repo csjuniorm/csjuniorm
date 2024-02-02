@@ -1,2 +1,2 @@
-## Hi, I'm Sergio and I study web development
+## Hi, I'm Junior and I study java
 
