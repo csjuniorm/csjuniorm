@@ -1,2 +1,2 @@
-## Hi, I'm Junior and I study java
+## Hi, I'm Junior and I study C# .NET
 
